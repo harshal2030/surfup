@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "426049514510",
+    "project_id": "stox-b2b25",
+    "storage_bucket": "stox-b2b25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426049514510:android:06a4116774e9877bb7a05f",
+        "android_client_info": {
+          "package_name": "com.hcodes.stoxmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426049514510-mdsq21m1nlfq4n7k8juv50emm3lr6k12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hcodes.stoxmanager",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "426049514510-cnosr47r1hd6bdm0b34b0d572lr0hiu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOiXkkQtr8BVYYMCjJcWzdKASj5o9VD40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426049514510-cnosr47r1hd6bdm0b34b0d572lr0hiu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

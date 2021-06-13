@@ -1,0 +1,14 @@
+{
+  "name": "StoxManager",
+  "displayName": "Stox Manager",
+  "expo": {
+    "splash": {
+      "image": "./src/images/ic_launcher.png",
+      "backgroundColor": "#DCE7E7"
+    },
+    "android": {
+      "package": "com.hocdes.stoxmanager",
+      "googleServicesFile": "./android/app/google-services.json"
+    }
+  }
+}
